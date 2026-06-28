@@ -1,10 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Grope Name", 24/7 BANGLA WAZ 📡 MOZID AHMED ✔️
-https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/04/azantvs.jpg" group-title="RELIGIOUS", AZAN TV 📡 MOZID AHMED 
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HpnYLX1Q/Islamic-TV.png" group-title="Grope Name", ISLAMIC TV 🌼 MOZID AHMED 🌼
-https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/93zpVfHm/ISLAM-BANGLA-TV.jpg" group-title="Grope Name", ISLAM BANGLA TV 📺 MOZID AHMED ✔️
 https://app.ncare.live/live-orgin/islamchbangla.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Grope Name", MADANI TV 💦 MOZID AHMED 💦
@@ -96,7 +95,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png" group-title="Grope Name", MY TV 📺 MOZID AHMED 
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/refs/heads/tv/Desh%20TV.png" group-title="Grope Name", DESH TV 📺 MOZID AHMED 
-https://tvsen6.aynaott.com/deshtv/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Grope Name", NEXUS TV 🌼 MOZID AHMED 🌼
 https://tvsen6.aynaott.com/nexustv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Rtv_bangladesh.svg" group-title="Grope Name", R TV 💦 MOZID AHMED 💦

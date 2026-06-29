@@ -28,7 +28,7 @@ https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4d/ATN_News_HD.png/revision/latest/scale-to-width-down/1000?cb=20240806225614" group-title="Grope Name", ATN NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://ekhon.tv/logo.png" group-title="Grope Name", EKHON TV 📺
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
+https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/b/bb/Independent_logo_2011.png" group-title="Grope Name", INDEPENDENT 🌼 MOZID AHMED 🌼
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Ekattor_TV_logo.png" group-title="Grope Name", EKATTOR 71 💦 MOZID AHMED 💦
@@ -194,11 +194,11 @@ https://iptvbd.live/metv1080/1080.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/shadinbd1.stream/live-orgin/shadinbd1.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5gprrg3T/Discovery.png" group-title="Grope Name", DISCOVERY TV 📡 MOZID AHMED ✔️
-http://172.16.29.2:8090/hls/DiscoveryHD.m3u8
+https://stream.ottplus.bd/live/discovery_sd_abr/live/discovery_sd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5gprrg3T/Discovery.png" group-title="Grope Name", DISCOVERY BANGLA TV 📡 MOZID AHMED ✔️
 http://103.180.212.191:3500/live/573.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rqSNf1t/National-Geographic.png" group-title="Grope Name", NATIONAL GEOGRAPHIC 💦 MOZID AHMED 💦
-http://172.16.29.2:8090/hls/NatGeoWild.m3u8
+http://202.70.146.135:8000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title=" 🎥", TRAVELXP BANGLA 💦 MOZID AHMED 💦
 http://203.18.159.115/TRAVELXP/tracks-v1a1/mono.m3u8
 
@@ -392,11 +392,11 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", ANIMAL PLANET HD 💦 MOZID AHMED 
-http://103.229.254.25:7001/play/a0dr/index.m3u8
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", RED BULL TV 💦 MOZID AHMED 💦
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gFPhg66d/Travelxp.jpg" group-title="Grope Name", TRAVELXP TV 💦 MOZID AHMED 💦
-http://103.229.254.25:7001/play/a0cy/index.m3u8
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", CARTOON NETWORK HD 💦 MOZID AHMED 💦

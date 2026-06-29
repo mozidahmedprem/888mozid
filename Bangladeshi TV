@@ -298,7 +298,7 @@ http://172.16.29.2:8090/hls/ZeeTVHD.m3u8
 #EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsg.png" group-title="HINDI MOVIE 🎥", STAR GOLD 💦 MOZID AHMED 💦
 http://198.195.239.50:8095/StarGold/index.m3u8
 #EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsm.png" group-title="HINDI MOVIE 🎥", SONY MAX HD 💦 MOZID AHMED 💦
-http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
+https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", ZEE CINEMA 💦 MOZID AHMED 💦
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="HINDI MOVIE", STAR GOLD 2 HD 💦 MOZID AHMED 💦
@@ -316,7 +316,7 @@ http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", STAR MOVIES SEL HD 💦 MOZID AHMED 💦
 http://103.229.254.25:7001/play/a02v/index.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/41.png" group-title="ENGLISH MOVIE", SONY PIX 💦 MOZID AHMED 💦
-http://180.94.28.28:8097/SONY-PIX/index.fmp4.m3u8
+https://stream.ottplus.bd/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="ENGLISH MOVIE 🎥", HBO HD 💦 MOZID AHMED 💦
 http://103.213.31.111/HBOHD/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", MOVIES NOW 💦 MOZID AHMED 💦
@@ -376,7 +376,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5hBb4P2C/t-series.webp" group-title="MUSIC 🎵", MUSIC T SERIES 🎶 MOZID AHMED 🎶
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", MASTI MUSIC 🎶 MOZID AHMED 🎶
-http://103.229.254.25:7001/play/a07q/index.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="MUSIC 🎵", MUSIC INDIA 🎶 MOZID AHMED 🎶
 http://103.175.73.12:8080/live/158/158_0.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", SAGA MUSIC 🎶 MOZID AHMED 🎶

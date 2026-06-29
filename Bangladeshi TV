@@ -38,7 +38,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a9/News24_HD_logo_2021.png" group-title="NEWS CHANNEL", NEWS 24 HD 💦 MOZID AHMED 💦
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.somoynews.tv/icon.png" group-title="Grope Name", SOMOY TV 🌼 MOZID AHMED 🌼
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/WNzQ6wnb/Star-News.jpg" group-title="NEWS CHANNEL ", STAR NEWS 🌼 MOZID AHMED 🌼
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/NnSFcq9H/NEWS-21.jpg" group-title="NEWS CHANNEL", NEWS 21 TV 🌼 MOZID AHMED 🌼

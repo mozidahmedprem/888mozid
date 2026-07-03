@@ -423,7 +423,7 @@ http://172.16.29.2:8090/hls/eurosportshd.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", FOX 501 HD 💦 MOZID AHMED 💦
 http://537c2e45.edmonst.net/iptv/XTLZN9LAR98K4Z/19146/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", PTV SPORTS HD 💦 MOZID AHMED 💦
-http://198.195.239.50:8095/PTV-kutta/video.m3u8
+http://103.114.11.37:8081/PTV/video.m3u8?token=LcfvVCNp3LLVz0
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", RTA TV  💦 MOZID AHMED 💦
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/25.png" group-title="Grope Name", STAR SPORTS HD 1 💦 MOZID AHMED 💦
@@ -444,5 +444,3 @@ http://103.229.254.25:7001/play/a0dw/index.m3u8
 http://103.114.11.37:8081/T-Sports-HD/video.m3u8?token=LcfvVCNp3LLVz0
 #EXTINF:-1 tvg-logo="Logo Link" group-title="SPORTS", WILLOW CKET HD 💦 MOZID AHMED 💦
 https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="SPORTS 🎥", FANCODE BD 💦 MOZID AHMED 💦
-https://bd-mc-fblive.fancode.com/mumbai/142066_english_hls_7f8785aea031495_1ta-di_h264/index.m3u8

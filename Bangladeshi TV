@@ -69,7 +69,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/BTV_Chattogram_Logo.svg" group-title="Grope Name", B TV CTG 📡 MOZID AHMED ✔️
 https://tvsen6.aynaott.com/btvctg/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/BTV_HD_Logo.svg" group-title="Grope Name", B TV 🌿 MOZID AHMED 🌿
-http://103.151.60.162:2121/play/a013/index.m3u8
+http://172.19.17.139:8090/hls/BTVNationalHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/q34TLdPP/Boishakhi-Tv.png" group-title="Grope Name", BOISHAKHI TV 🌼 MOZID AHMED 🌼
 https://tvsen6.aynaott.com/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rfc5fgzH/Bijoy.jpg" group-title="Grope Name", BIJOY TV 📺 MOZID AHMED 
@@ -425,7 +425,7 @@ http://172.16.29.2:8090/hls/eurosportshd.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", FOX 501 HD 💦 MOZID AHMED 💦
 http://537c2e45.edmonst.net/iptv/XTLZN9LAR98K4Z/19146/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", PTV SPORTS HD 💦 MOZID AHMED 💦
-http://103.114.11.37:8081/PTV/video.m3u8?token=LcfvVCNp3LLVz0
+http://172.19.17.139:8090/hls/ptvsportshd.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", RTA TV  💦 MOZID AHMED 💦
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/25.png" group-title="Grope Name", STAR SPORTS HD 1 💦 MOZID AHMED 💦
@@ -443,7 +443,7 @@ http://180.94.28.28:8097//Sony-Ten-2/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="SPORTS", SONY TEN 5 HD 💦 MOZID AHMED 💦
 http://180.94.28.28:8097//Sony-Ten-5/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/KQynSXf/T-Sports.jpg" group-title="SPORTS", T SPORTS HD 💦 MOZID AHMED 💦
-https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
+http://172.19.17.139:8090/hls/tsportshd.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="SPORTS", WILLOW CKET HD 💦 MOZID AHMED 💦
 https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="SPORTS", FIFA + 💦 MOZID AHMED 💦

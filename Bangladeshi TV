@@ -128,7 +128,7 @@ http://1875821.mangoq.us//live/25711345/late8airline/3814.ts?token=ShJcU0BbQQNHX
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/34/Aakash_Aath_logo_%282013%29.png" group-title="Grope Name", AKASH 8 TV 🌼 MOZID AHMED 🌼
 https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://openboxv8s.com/india/star_jalsha.png" group-title="KOLKATA CHANNEL", STAR JALSHA HD 💦 MOZID AHMED 💦
-http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8
+http://172.19.17.139:8090/hls/StarJalshaHD.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/zVJv2UJQNwrChEqxfryfZBR1KCJLUEBqc68SEoYHzX9rM4YC8RcF8T06vLZKRenFwMISCD3V=s160-c-k-c0x00ffffff-no-rj" group-title="Grope Name", CHANEL A1 TV 📺 MOZID AHMED ✔️
 https://video1.getstreamhosting.com:1936/eycqczsxka/eycqczsxka/chunklist_w1382195585.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="Grope Name", DESI BIDESHI TV 📺 MOZID AHMED 
@@ -149,7 +149,7 @@ http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fVvTpDmT/Colors-Bangla-Cinema.png" group-title="Grope Name", COLORS BANGLA CINEMA TV 📡 MOZID AHMED ✔️
 http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.m3u8
 #EXTINF:-1 tvg-logo=""https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png" group-title="BANGLA MOVIE 🎥",JALSHA MOVIE HD 💦 MOZID AHMED 💦
-http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8
+http://172.19.17.139:8090/hls/JalshaMoviesHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sJytpPV9/Sananda.jpg" group-title="BANGLA MOVIE 🎥",SANANDA MOVIE 🎥 💦 MOZID AHMED 💦
 https://live.sanandatelevision.in/sananda/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", STAR BANGLA MOVIE 💦 MOZID AHMED 💦
@@ -243,6 +243,8 @@ http://103.121.61.218/tmp_hls/1ecfb463472ec9115b10c292ef8bc986/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZpkBLVNc/pictures-hd.webp" group-title="HINDI MOVIE 🎥", & PICTURE 💦 MOZID AHMED 💦
 https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZpkBLVNc/pictures-hd.webp" group-title="HINDI MOVIE 🎥", & PICTURE 💦 MOZID AHMED 💦
+http://172.19.17.139:8090/hls/AndPictureHD.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", & TV HD 💦 MOZID AHMED 💦
 http://103.229.254.25:7001/play/a034/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="ENGLISH MOVIE", & FLIX HD 💦 MOZID AHMED 💦
@@ -295,8 +297,10 @@ http://103.229.254.25:7001/play/a035/index.m3u8
 http://172.16.29.2:8090/hls/ZeeTVHD.m3u8
 #EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsg.png" group-title="HINDI MOVIE 🎥", STAR GOLD 💦 MOZID AHMED 💦
 http://198.195.239.50:8095/StarGold/index.m3u8
-#EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsm.png" group-title="HINDI MOVIE 🎥", SONY MAX HD 💦 MOZID AHMED 💦
+#EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsm.png" group-title="HINDI MOVIE 🎥", SONY MAX 💦 MOZID AHMED 💦
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsm.png" group-title="HINDI MOVIE 🎥", SONY MAX HD 💦 MOZID AHMED 💦
+http://172.19.17.139:8090/hls/sonymaxhd.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", ZEE CINEMA 💦 MOZID AHMED 💦
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="HINDI MOVIE", STAR GOLD 2 HD 💦 MOZID AHMED 💦
@@ -320,12 +324,12 @@ http://103.213.31.111/HBOHD/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", MOVIES NOW 💦 MOZID AHMED 💦
 http://180.94.28.28:8097/MOVIES-NOW/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsp.png" group-title="Grope Name", STAR PLUS HD 💦 MOZID AHMED 💦
-http://198.195.239.50:8095/StarPlus/index.m3u8
+http://172.19.17.139:8090/hls/StarPlusHD.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVE 🎥", SONY MAX 🌼 MOZID AHMED 🌼
 https://padmaonline.duckdns.org:8088/SonyMaxHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/inhse.png" group-title="Grope Name", SONY HD 💦 MOZID AHMED 
-http://172.16.29.2:8090/hls/SonyHD.m3u8
+http://172.19.17.139:8090/hls/SonyHD.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", SANGEET BHOJPURI 🎶 MOZID AHMED 🎶
 https://cdn-4.pishow.tv/live/1293/master.m3u8

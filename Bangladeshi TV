@@ -69,9 +69,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/BTV_Chattogram_Logo.svg" group-title="Grope Name", B TV CTG 📡 MOZID AHMED ✔️
 https://tvsen6.aynaott.com/btvctg/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/BTV_HD_Logo.svg" group-title="Grope Name", B TV 🌿 MOZID AHMED 🌿
-http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
-EXTINF:-1 tvg-logo=" " group-title="Grope Name", B TV HD 💦 MOZID AHMED 💦
-http://180.94.28.28:8097//BTV/index.fmp4.m3u8
+http://103.151.60.162:2121/play/a013/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/q34TLdPP/Boishakhi-Tv.png" group-title="Grope Name", BOISHAKHI TV 🌼 MOZID AHMED 🌼
 https://tvsen6.aynaott.com/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rfc5fgzH/Bijoy.jpg" group-title="Grope Name", BIJOY TV 📺 MOZID AHMED 
@@ -154,8 +152,10 @@ http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.m3u8
 http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sJytpPV9/Sananda.jpg" group-title="BANGLA MOVIE 🎥",SANANDA MOVIE 🎥 💦 MOZID AHMED 💦
 https://live.sanandatelevision.in/sananda/index.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", STAR BANGLA MOVIE 💦 MOZID AHMED 💦
+http://103.151.60.162:2121/play/a0f5/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png" group-title="Grope Name", SUN BANGLA TV 💦 MOZID AHMED 💦
-http://180.94.28.28:8097//SUN-BANGLA/index.fmp4.m3u8
+http://27.124.71.27/Sun_Bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906659479.png" group-title="Grope Name", SONY ATTH 💦 MOZID AHMED 💦
 https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735046738565.png" group-title="Grope Name", ZEE BANGLA HD 💦 MOZID AHMED 💦
